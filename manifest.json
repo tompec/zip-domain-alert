@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Zip Domain Alert",
+    "version": "0.0.1",
+    "description": "An extension to change every link with .zip TLD to have a red border",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "script.js"
+            ]
+        }
+    ]
+}
