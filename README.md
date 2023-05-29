@@ -10,12 +10,9 @@ Zip Domain Alert is a Chrome extension designed to enhance your browsing securit
 
 ## Installation
 
-1.  Clone or download the Zip Domain Alert repository.
-2.  Open Google Chrome and go to **chrome://extensions**.
-3.  Enable the "Developer mode" toggle on the top right corner of the page.
-4.  Click on the "Load unpacked" button.
-5.  Select the folder where you cloned or downloaded the Zip Domain Alert repository.
-6.  Zip Domain Alert will be added as a Chrome extension and will start protecting your browsing experience.
+1.  Visit the [Zip Domain Alert page](https://chrome.google.com/webstore/detail/zip-domain-alert/aebhmoajfochllopaicaaiofnnbeaohk?hl=en&authuser=0) on the Chrome Web Store.
+2.  Click on the "Add to Chrome" button.
+3.  Confirm the installation by clicking on "Add extension" in the pop-up window.
 
 ## Usage
 
